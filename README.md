@@ -1,2 +1,2 @@
-# JavaExercise
- here are some my exercises code  for Java
+# Program on Java
+ My exercises and homework code for Java
